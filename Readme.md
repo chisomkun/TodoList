@@ -1,4 +1,4 @@
-Simple REST API for managing a Todo list. 
+Simple REST API for managing a Todo list. https://github.com/chisomkun/TodoList
 
 How it all works
 1. Create a user. Send a POST request to: api/registration with the following information: 
