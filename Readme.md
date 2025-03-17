@@ -7,4 +7,4 @@ How it all works
    1. You will be given a jwt token to be used to authorize your requests
    2. You can create todo items via POST,GET and DELETE todo items via /api/todos
    3. To update an item send a PUT to: /api/todos
-   4. Use api/todos/search to get a full list of availabe todos. You can also include query parameters limit and page to filter your todos
+   4. Use api/todos/search to get a full list of available todos. You can also include query parameters limit and page to filter your todos
