@@ -6,9 +6,9 @@ server:
 spring:
   #TODO learn more about spring.datasource and the below properties
   datasource:
-    password: admin
-    url: jdbc:postgresql://localhost:5432/postgres
-    username: postgres
+    password:
+    url:
+    username:
   jpa:
     hibernate:
       ddl-auto: update
